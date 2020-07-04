@@ -1,2 +1,1 @@
-# manojrengasamy.github.io
-Describes my Professional profile
+Personal Profile maintained in this 'gokulanviswanathan.github.io' repository
